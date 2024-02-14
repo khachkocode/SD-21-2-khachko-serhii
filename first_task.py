@@ -1,0 +1,1 @@
+print(f'Hi, my name is Khachko Serhii Mykolayovych and i\'m studing studying software development in college.')
